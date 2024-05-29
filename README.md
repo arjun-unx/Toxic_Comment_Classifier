@@ -1,4 +1,4 @@
-#Toxic Comment Classifier using Deep Learning Model
+# Toxic Comment Classifier using Deep Learning Model
 
 The goal is to create a classifier model that can predict if input text is inappropriate (toxic). 
 1. Explore the dataset to get a better picture of how the labels are distributed, how they correlate with each other, and what defines toxic or clean comments. 
